@@ -4,6 +4,6 @@
 
 # Ignore sensitive files
 terraform.tfvars
-
+ensimagproject1-5dc18948cd88.json
 # Ignore provider cache
 .terraform/
