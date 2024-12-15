@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ensimagproject1",
+  "private_key_id": "5dc18948cd88d84a8b63eea5b96377cd5ccf537e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQClsKgAUcW4UgKb\nnF3C9Rs2kB/qzULw2KpAcGlKUsFfIeiePOxyp4iqiGQGVUwRNhsSxWoQq9ls3zhB\n7hyn3K230bVuhQblOHciU9vlvuA6cD6nbZ66rFxCnF7ocpPLqVpd+rO1T2ArDnvB\npDF3eLSBVz9Sl30YMNtl2kSyCR736X0tY8X7n2AX8+D/2KFgZc0/7ld3ta6uPVRv\nxYO7l5nAXPwZ5JAN2YCnX3F8a7RhfZUgTmSYIl1pq+32B+odwzgz8RAeEd0NANeE\ngSkKH9HKFpmbaoX8B0g9rH4Cb+VOHe27DD+ncJebpYYPoKh2SlNqnkBdtc6SkJF+\nfMVp1xydAgMBAAECggEABjxAsPUNg3iVSoqMPhhVSYILrB1vZdBG5UfrCSCrevYJ\nYrMY6YkD1qRtXI5R34VGvY0aXGhAisgCaPtvWU3aZ8QyQhIq2+4lEEX8TN1tuM/y\nkQB0wcJXcoD0qBDFHnFQH6Cd/2EZAGXPeHkXt3meaWOsKWKJaE37uQ3exJ3H7D0Y\nsMgTi2LaLEhkh/bo/lFS2IaZVc9sV4uGnd0lyoLD0wIH28chb0l1yKA+QxUQBP99\nxHDLXMSDFiscgzlRIpKKpsAQyqJOPHFPwZXdzKLAWYrUorj6uQv/dS3Z5VvTgUYI\ngPvZsQ3/pbgczc5L3ImoPedyFKTNQrDODmydGilT7QKBgQDa7hxIDRDuzPEH1Nph\nRWveIG4qDWoAr9FR1InazUf/GZgHI2CN/ybJrKw5wDUMdgL5Lr84UQzezPPjshPa\n+/lZ6793PUba9w/OI/U70scb5v/JbwpgkALn2FmUfMJW/YNEFvnIR7FWXL9plo7D\nsScH+ddWEogUNHQyw+3YsxU5CwKBgQDBvsRlYzf0ninlRnQrSZ4o62Hzuvi6ustH\noEY/nJB6QWiXOANhZ32h1IjGqmVR3Xt/nSXfjB9e2T9Ap8FeV1jg4ZoH3n/WYNx/\npew2B7ciJv0fPpSEkTSoyy/JQP4d/spLWytXnypESP3/5wQWpRRnwPD9UGF2vn9i\ngsivdkEZ9wKBgCemKe8Olrt42EofzXECXpe67dil10XKkbEtOc4rkVds7jCUwp7U\nz9SEdih7W+Am20D/q1fqrdcH7T+Wd6wYKD+Vx3Yz3co4Jl+h+X7dHHw8KKT1fD6i\ntjQA5bBTq+qPPR+uvYv9F+vZHj1kK/Ta94OlRs9qycRG/6hV/ZRaUoSjAoGADlN6\n1jxl8NKZKnjxMho5dbEiBxG2Pqh9S4iQaTe8fy3C/BuKNHOgmIzMqFQFNe54qVEH\nceY8k5jg0nkVFVLEIazM5PQQ49s5sr6kHsKnSgE0ClFoTf0mtayAlhMWN0WV08ik\nBdChIXd8QKXmaX4/agScTT7aVhtz8+bTzBWkbrUCgYBjrpwbdp5Xp+nRUdhmKrJo\nYRTwawcI4D9U9eGaOs+ZbRbg2CFixWLzpsbeCCfSCiusyHc0Utl4wjLez400rjzk\niBn4E+rlW5p/1wPR6EIqEc+J7ylzKGlyA2D12DxMmXUu4t4Tm2C+wBeilMW2Fbsr\nOwoH0c4zHfremOrQvCERKQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-service-account@ensimagproject1.iam.gserviceaccount.com",
+  "client_id": "116298773302857648876",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-service-account%40ensimagproject1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
